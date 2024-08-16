@@ -1,5 +1,5 @@
 # Hello, I'm Clyde
-<a href="https://linkedin.com/clyde-hubbard"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/clyde-hubbard"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
