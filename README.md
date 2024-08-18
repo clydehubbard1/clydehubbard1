@@ -44,6 +44,8 @@ My work experience has led me to develop a passion for cybersecurity, and I am n
 ## Projects
 - SOC Automation Project
 
+https://drive.google.com/file/d/1ZolMMOyOPfDmufZRgzB1xY97yFG3LYnD/view?usp=drive_link
+
 <!--
 **clydehubbard1/clydehubbard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
