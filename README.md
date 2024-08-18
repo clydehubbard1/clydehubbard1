@@ -15,7 +15,6 @@ My work experience has led me to develop a passion for cybersecurity, and I am n
 |-----------------------------------------------|----------------------------|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
