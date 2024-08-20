@@ -3,7 +3,7 @@
 
 
 
-I am a motivated security analyst seeking entry-level cybersecurity position to apply my skills in network security, security policy and organizational risk management.
+I am a motivated security pofessional seeking entry-level cybersecurity position to apply my skills in network security, security policy and organizational risk management.
 
 ## Objective
 
