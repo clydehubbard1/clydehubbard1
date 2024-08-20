@@ -11,11 +11,10 @@ My work experience has led me to develop a passion for cybersecurity, and I am n
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         
+|-----------------------------------------------|
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      | 
 
 ## Tools
 
