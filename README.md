@@ -35,9 +35,11 @@ My work experience has led me to develop a passion for cybersecurity, and I am n
 ## Certifications
 
 <div>
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Active-0094D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-Passed-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate Badge" />
 <img src="https://img.shields.io/badge/Qualys_Vulnerability_Management-Active-0094D4?style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys Vulnerability Management Badge" />
 <img src="https://img.shields.io/badge/CompTIA_Certmaster_Certificate_of_Completion-Passed-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Certmaster Certificate of Completion Badge" />
+
 
 ## Projects
 - SOC Automation Project
